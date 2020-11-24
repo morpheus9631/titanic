@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+
+# Data:
+data/*
+!data/*.csv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+Untitled.ipynb
+ipynb/Untitled*.ipynb
+
+# output
+output/*
+
